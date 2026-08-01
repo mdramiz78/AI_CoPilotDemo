@@ -1,5 +1,3 @@
-# ramiz tedst ########
-
 ### TC-001: View bookings list with existing bookings
 **Category**: Happy Path
 **Priority**: P0
